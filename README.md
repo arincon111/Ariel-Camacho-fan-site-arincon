@@ -14,7 +14,7 @@
        </ul>
      </nav>
      <hr>
-     <hl>Ariel Camacho y los plebes del Rancho</hl>
+     <hl>Ariel Camacho y Los Plebes del Rancho</hl>
    </header>
 
   <section>
