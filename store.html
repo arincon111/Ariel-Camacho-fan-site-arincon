@@ -3,6 +3,7 @@
  <head>
    Ariel Camacho y Los Plebes del Rancho | Store 
    <meta name= "description" content="Ariel Camacho fan site">
+   <link rel="stylesheet" href="styles.css">
  </head> 
  <body>
    <header>
