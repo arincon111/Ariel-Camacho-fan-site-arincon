@@ -1,4 +1,3 @@
-# Ariel-Camacho-site-arincon
 <html>
  <head>
    Ariel Camacho y Los Plebes del Rancho | Store 
